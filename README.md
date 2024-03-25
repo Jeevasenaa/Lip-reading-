@@ -22,4 +22,4 @@ The LipNet project pioneers advanced lipreading technology through neural networ
 - User interface design for accessibility and usability considerations
 - Continuous testing and iteration for improving accuracy and robustness
 # System Architecture
-![System architecture](Downloads)
+![System architecture](https://www.researchgate.net/publication/367171744/figure/fig1/AS:11431281113338235@1673875374133/The-architecture-of-the-lip-reading-model-Given-a-video-sequence-we-extract-29.png)
