@@ -25,3 +25,4 @@ The LipNet project pioneers advanced lipreading technology through neural networ
 ![System architecture](https://github.com/Jeevasenaa/Lip-reading-/blob/main/System%20architecture.png)
 # Ouput
 ![Output](https://github.com/Jeevasenaa/Lip-reading-/blob/main/output%201.png)
+![Output 2](https://github.com/Jeevasenaa/Lip-reading-/blob/main/Output%202.png)
