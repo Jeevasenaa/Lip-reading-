@@ -23,3 +23,5 @@ The LipNet project pioneers advanced lipreading technology through neural networ
 - Continuous testing and iteration for improving accuracy and robustness
 # System Architecture
 ![System architecture](https://github.com/Jeevasenaa/Lip-reading-/blob/main/System%20architecture.png)
+# Ouput
+![Output]()
